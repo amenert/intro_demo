@@ -3,6 +3,4 @@
 
 link err portaalile http://err.ee
 
-# võtsin lingi ära
-
 
